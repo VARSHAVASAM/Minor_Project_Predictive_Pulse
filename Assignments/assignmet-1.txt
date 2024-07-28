@@ -1,0 +1,78 @@
+
+
+1. *Define Artificial Intelligence (AI) and provide examples of its applications.*
+   - Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and mimic human actions. AI applications include:
+     - Natural Language Processing (NLP) for language translation and sentiment analysis.
+     - Computer Vision for image and video recognition.
+     - Machine Learning algorithms for predictive analytics and pattern recognition.
+     - Robotics for automation and decision-making in physical tasks.
+
+
+2. *Differentiate between supervised and unsupervised learning techniques in ML.*
+   - Supervised learning involves training a model on labeled data, where the algorithm learns from input-output pairs. Example: predicting house prices based on features like size, location, etc.
+   - Unsupervised learning doesn't use labeled data; instead, it finds patterns and structures in the data. Example: clustering similar customer behavior without predefined categories.
+
+
+3. *What is Python? Discuss its main features and advantages.*
+   - Python is a high-level, interpreted programming language known for its simplicity and readability.
+   - Main features:
+     - Easy-to-read syntax.
+     - Extensive standard library.
+     - Dynamically typed.
+     - Supports multiple programming paradigms (procedural, object-oriented, functional).
+     - Cross-platform compatibility.
+   - Advantages:
+     - Rapid development and prototyping.
+     - Large community support.
+     - Scalability.
+     - Wide range of libraries for AI, ML, web development, etc.
+
+
+4. *What are the advantages of using Python as a programming language for AI and ML?*
+   - Python offers simplicity and readability, making it easier to implement complex algorithms.
+   - It has a vast ecosystem of libraries like TensorFlow, PyTorch, scikit-learn for AI and ML tasks.
+   - Python's dynamic typing and interpreted nature speed up development and experimentation.
+
+
+5. *Discuss the importance of indentation in Python code.*
+   - Indentation in Python is crucial as it defines the structure and scope of code blocks like loops, functions, and conditional statements.
+   - Proper indentation enhances code readability and helps avoid syntax errors.
+
+
+6. *Define a variable in Python. Provide examples of valid variable names.*
+   - A variable in Python is a named storage location used to store data values.
+   - Valid variable names:
+     - age
+     - user_name
+     - total_score
+     - _variable_name
+     - camelCase
+
+
+7. *Explain the difference between a keyword and an identifier in Python.*
+   - Keywords are reserved words that have predefined meanings in Python, like if, else, while, etc.
+   - Identifiers are names given to variables, functions, classes, etc., created by the programmer, following certain rules like starting with a letter or underscore.
+
+
+8. *List the basic data types available in Python.*
+   - Integer (int)
+   - Float (float)
+   - String (str)
+   - Boolean (bool)
+   - List
+   - Tuple
+   - Dictionary
+   - Set
+
+
+9. *Describe the syntax for an if statement in Python.*
+   - Syntax: 
+     python
+     if condition:
+         # code block to execute if condition is True
+
+     
+
+10. *Explain the purpose of the elif statement in Python.*
+    - The elif statement is used in conjunction with if and else to check additional conditions if the preceding if statement is False.
+    - It allows for multiple condition checks in a sequence.
